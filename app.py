@@ -124,7 +124,7 @@ developer_info = """
 ### About the Developer
 **Created by:- lakshay singla
 
-* **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL_HERE)
+* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/lakshay-singla-385ba9353?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 * **GitHub:** [Check out my projects](YOUR_GITHUB_URL_HERE)
 * **Instagram:** [Follow me](YOUR_INSTAGRAM_URL_HERE)
 
